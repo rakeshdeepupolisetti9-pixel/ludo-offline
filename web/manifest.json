@@ -1,0 +1,18 @@
+{
+    "name": "Ludo Offline",
+    "short_name": "Ludo",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0175c2",
+    "description": "Offline Ludo Game in Flutter",
+    "orientation": "portrait",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
